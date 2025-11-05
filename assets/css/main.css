@@ -1,0 +1,4 @@
+/* 自定义样式 */
+body {
+  @apply bg-gray-50 dark:bg-gray-900;
+}
